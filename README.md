@@ -1,4 +1,4 @@
-# project
+# 12lab
 
 ## Project setup
 ```
